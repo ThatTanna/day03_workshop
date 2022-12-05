@@ -1,0 +1,27 @@
+login
+    if user not found, will create user.
+    // <folder> cartdb/fred.db
+    if user exists, access user data.
+        needs to load user saved data.
+
+add
+    add items to user
+
+list
+    if empty, will display message
+    if populated, will display items
+
+save
+    if not created, will create.
+    if created, will save.
+
+delete
+    if empty, will display message
+    if populated, will delete items
+
+users
+    if empty, will display message
+    if populated, display users.
+
+exit
+    display message and exit program.
